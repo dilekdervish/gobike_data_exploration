@@ -1306,8 +1306,3 @@ leg = ax.legend()
 rides.to_csv('rides_clean.csv', 
                  index=False, encoding = 'utf-8')
 ```
-
-
-```python
-
-```
